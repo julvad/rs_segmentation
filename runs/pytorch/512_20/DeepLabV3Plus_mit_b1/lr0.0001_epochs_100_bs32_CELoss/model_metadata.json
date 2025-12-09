@@ -1,0 +1,1 @@
+{"val_loss": 0.2006922879002311, "data_mode": "colorized_images", "unfreeze_backbone": false, "num_epochs": 100, "lr": 0.0001, "weight_decay": 0.0001, "type_scheduler": "reduce_lr"}
